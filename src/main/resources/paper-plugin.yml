@@ -1,0 +1,7 @@
+name: timeStop
+version: '0.0.1'
+main: me.pau.plugins.timeStop.TimeStop
+api-version: '1.21'
+authors: [ DarkMatter, defNotPau ]
+description:
+  A fork of the 1.16.5 mod by MercurialPony and XuyuEre: Locks
